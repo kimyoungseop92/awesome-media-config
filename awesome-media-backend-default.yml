@@ -9,4 +9,4 @@ spring:
     console:
       enabled: true
 
-name: kys-default-Hi~~
+name: kys-default-Hi~~ Hello
